@@ -1,4 +1,15 @@
 # Procedural Jellyfish
+## Result
+The jellyfish is made with Houdini, which is composed of 4 parts: bell, arms, veins and Tentacles.
+
+Result GIF(further video, please refer to [jellyfish.mp4](jellyfish.mp4))
+
+![](jellyfish.gif)
+
+Here is a rendered image with path tracer.
+
+![](jellyfish.png)
+
 
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
