@@ -10,7 +10,7 @@ Jellyfish by jasonhl:
 
 Flipbook video:
 
-![](jellyfish.mp4)
+![](jellyfish.gif)
 
 Extra credit render (using Mantra):
 
