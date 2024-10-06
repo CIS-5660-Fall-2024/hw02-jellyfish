@@ -2,6 +2,4 @@
 
 Procedural jellyfish created in Houdini.
 
-<video width="480" height="270" controls>
-  <source src="jellyfish.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/b238bd39-2dd6-42de-90ef-514024d776f0
