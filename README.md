@@ -24,5 +24,5 @@ Similarily to the veins I had a group that selected points at the bottom of the 
 * Render (Mantra)
   * Set up some transparent emissive materials. Added Worley Noise pattern with color shift on top of the bell.
 * Custom Rock Background
-  * Took a grid, applied voronoi fracture, then extruded. The extent of the extrusion is controlled by a attribute wrangle node: it scales with the coordinate value in the z-axis. Texture are from [here](https://polyhaven.com/a/rock_face_03).
+  * Took a grid, scattered points on the grid, applied voronoi fracture, then extruded. The extent of the extrusion is controlled by a attribute wrangle node: it scales with the coordinate value in the z-axis. Texture are from [here](https://polyhaven.com/a/rock_face_03).
     ![rocks](preview_c.png)
