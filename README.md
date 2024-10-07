@@ -1,5 +1,9 @@
 # Procedural Jellyfish
 
+
+https://github.com/user-attachments/assets/91c796b5-1fd7-43fa-ac4a-2fc9a843faf0
+
+
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
