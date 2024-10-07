@@ -38,5 +38,9 @@ This project involves creating a dynamic jellyfish model using procedural modeli
  
 ### Final Product Display:
 
+https://github.com/user-attachments/assets/73ded015-b8cb-4a2f-aec9-5d33d7ad79e2
+
 ![jellyfish_1](https://github.com/user-attachments/assets/52fc5fac-b533-4f38-8e16-6aad490f5659)
 ![jellyfish_2](https://github.com/user-attachments/assets/7ecc9566-6611-4960-b195-a52303ad0bff)
+
+
