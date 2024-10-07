@@ -22,7 +22,8 @@ Simlar to the jellyfish's bell, the ground was a bent line revolved around the y
 
 ## Rendered Video
 
-https://github.com/jeff-mostyn/hw02-jellyfish/blob/main/render/jmostyn_hw02_jellyfish_0006.mp4
+https://github.com/user-attachments/assets/a4e268cc-9293-41b9-a943-5587e3cf3ad4
+
 
 ## Submission
 - Fork this repository
