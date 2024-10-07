@@ -5,10 +5,7 @@
 
 ## Rendered Video
 
-<figure class="video_container">
-  <iframe src="render/jmostyn_hw02_jellyfish_0006.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+https://github.com/jeff-mostyn/hw02-jellyfish/blob/main/render/jmostyn_hw02_jellyfish_0006.mp4
 
 ## Submission
 - Fork this repository
