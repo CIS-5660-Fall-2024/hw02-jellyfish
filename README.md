@@ -1,7 +1,9 @@
 # Procedural Jellyfish
 
 
-https://github.com/user-attachments/assets/91c796b5-1fd7-43fa-ac4a-2fc9a843faf0
+
+https://github.com/user-attachments/assets/5eaa027e-0792-473d-b7df-62f9f99e92db
+
 
 
 ## Project Overview
