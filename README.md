@@ -3,11 +3,6 @@
 ## Overview
 This project involves creating a dynamic jellyfish model using procedural modeling techniques and custom materials. The initial steps for constructing the jellyfish's bell and arms were based on a tutorial video, while additional components were designed using resources available on the project's GitHub page.
 
-### Final Product Display:
-
-![jellyfish_1](https://github.com/user-attachments/assets/52fc5fac-b533-4f38-8e16-6aad490f5659)
-![jellyfish_2](https://github.com/user-attachments/assets/7ecc9566-6611-4960-b195-a52303ad0bff)
-
 ## Implementation Details
 
 ### 1. Veins
@@ -40,3 +35,8 @@ This project involves creating a dynamic jellyfish model using procedural modeli
 - **Rendering:**
   - The final scene was rendered using Mantra.
   - All 100 frames were compiled into a video using Adobe Media Encoder.
+ 
+### Final Product Display:
+
+![jellyfish_1](https://github.com/user-attachments/assets/52fc5fac-b533-4f38-8e16-6aad490f5659)
+![jellyfish_2](https://github.com/user-attachments/assets/7ecc9566-6611-4960-b195-a52303ad0bff)
