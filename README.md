@@ -24,4 +24,4 @@ The arms were made by copying some base edges to a circle whose points are on th
 The materials are a mix of attribute magic and a camera fall-off node. These are passed through some gradients and used to drive base color, emission, and opacity. The render is done in Karma, and some bloom and color adjustments were made in post using Davinci Resolve.
 
 
-![Jellyfish Animation](./Jelly Gif.gif)
+![Jellyfish Animation](./Jelly_Gif.gif)
