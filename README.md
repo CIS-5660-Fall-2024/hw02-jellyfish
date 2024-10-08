@@ -1,5 +1,7 @@
 # Procedural Jellyfish : Lewis Ghrist
 
+![Jellyfish Animation](./Jelly_Gif.gif)
+
 ## Bell / Veins
 The bell was made using the instructed method with a base curve deformed using bend nodes and revolving the curve to form the base shape. From there that surface is extruded and some slight noise is added to give the shape some variation. From the base mesh, I group some 'start' points towards the top of the bell and some 'end' points towards the bottom edge which are used with a shortest path node to create the veins. Values in the bend nodes and a transform node animate the bell to deform like it is swimming.
 
@@ -22,6 +24,3 @@ The arms were made by copying some base edges to a circle whose points are on th
 
 ## Materials
 The materials are a mix of attribute magic and a camera fall-off node. These are passed through some gradients and used to drive base color, emission, and opacity. The render is done in Karma, and some bloom and color adjustments were made in post using Davinci Resolve.
-
-
-![Jellyfish Animation](./Jelly_Gif.gif)
