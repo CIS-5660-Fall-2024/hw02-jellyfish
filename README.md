@@ -1,5 +1,8 @@
 # Procedural Jellyfish
 
+## Result
+![Jellyfish](./output.mp4)
+
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
@@ -66,9 +69,9 @@ Your task is to watch the video and extract the applicable information to make t
 
 ## Houdini FAQ
 [File Cache Node](https://www.youtube.com/watch?v=00s9YWDWFs0) - How do I use the File Cache node? Where does it save and how do versions work?
-
+- Drop down the file cache node and the data will be save in disk. It saves time by caching the simulation data, so we don't need to recalculate everu time which saves time for rendering and playback.
 [Simulation Caching](https://www.youtube.com/watch?v=jwIuzB9FkX0) - Why is my timeline turning blue/orange? Why isn't my simulation updating even though I made changes?
-
+- Blue means houdini has all the geometry information cached in memory. Orange means the cache is out of the date. Houdini saves old information until users explicity tell it to update the information, cause sometimes we dont want to resimulate right after and freeze everything.
 ## (Optional) Extra Credit
 - Add another part to your jellyfish. This can be something real (ex: crown jellyfish and lions mane jellyfish have some pretty crazy features that might be fun to recreate) or whatever zany alien jellyfish addition you can imagine!
 - Refine one of the existing parts (ex: adding scalloped edges and dents/puckering to the bell of the jellyfish)
