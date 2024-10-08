@@ -4,9 +4,7 @@
 This a procedural jellyfish using Houdini. 
 
 ### Result
-![Jellyfish](./output.gif)
-[Video](./assets/output.mp4)
-
+[![Jellyfish video](./output.gif)](https://youtu.be/pwx2x5fgGWI)
 ### Features
 - Jellyfish modeling
 - Animation
