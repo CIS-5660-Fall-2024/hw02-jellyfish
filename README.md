@@ -9,4 +9,5 @@ Scallopping was done by first assigning an angle attribute to all vertices in th
 ![image](https://github.com/user-attachments/assets/67d7a3db-fa5d-4b1f-888a-64cd74c39ff4)  
 And then adding along their normals to vertices that are close to even divisions of 360. We also moved vertices down with amplitude based on their y-pos.  
 ![image](https://github.com/user-attachments/assets/a0ffe708-8c42-4853-9309-26e25673d4ea)  
- 
+The jellyfish also has internal organs.  
+![image](https://github.com/user-attachments/assets/2197b11f-4fec-4eae-afd7-d415f15ba0ed)
