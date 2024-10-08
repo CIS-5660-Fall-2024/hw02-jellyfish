@@ -12,6 +12,8 @@ In this homework, I created a procedural jellyfish using Houdini. The jellyfish 
 - Veins
 - Tentacles
 
+![](./jellyfish.png)
+
 ### Hat
 As for the hat, I used a revolved curve to create the shape. Then, I used some noise to add randomness to the shape. Also, I used a controller to contorl the shape and position of the jellyfish overtime so that I can generate an animation sequence.
 
