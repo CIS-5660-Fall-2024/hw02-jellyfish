@@ -1,9 +1,23 @@
 # Procedural Jellyfish
 
 ## Project Overview
-In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
+In this project, I created a procedural jellyfish using Houdini. It gives me a chance to dig into procedural modeling, as well as some simulation.
 
-<img height="500" alt="Jellyfish Parts" src="/assets/JellyfishParts.png">
+## Showcase
+![](hw2jellyfish.gif)
+![](entire.jpg)
+
+## Each Part
+My approach is as follows:
+![](node.jpg)
+
+|Image| Method|
+|:---:|:-----:|
+| ![bell](bell.jpg)| 1. Start by sketching a line that will later be revolved around the y-axis to form the bell shape. 2. Introduce natural deformation using two Bend nodes—one for shaping the rim and another for adjusting the central part. 3. Animate the bell by keyframing in the timeline. [Video](https://www.youtube.com/watch?v=J3X8BB0yNRE)|
+| ![arm](arm.jpg)|1. Set up geometry attributes for the cloth simulation in advance using the Vellum constraint node. 2. Run the actual cloth simulation through the Vellum solver node.[Video](https://www.youtube.com/watch?v=A_oNXqx8XH4)|
+| ![veins](vein.jpg)|1. Transform the jellyfish model into triangular meshes, preventing a blocky, square look for the veins. 2. Utilize two groupByRange nodes to mark the start and end points of each branching pattern for the veins. 3. Generate the veins by using the shortest path node. 4. Smooth out the vein structure to make it more organic. Use resample and fuse nodes before applying the "smooth" node to keep the geometry seamless and continuous. 5. Use a sweep node to give the veins some thickness, shaping them as rounded tubes instead of flat strings. 6. Finally, use the "Point Deform" node (as previously used for the arms) to attach the veins to the animated bell.|
+|  ![organs](organ.jpg)|1. Begin by drawing a Bezier curve, then apply the sweep node to generate a worm-like shape for the organ. 2.Rotate and duplicate the base shape of the organ to create more elements. 3.Apply the "Mountain" node to introduce noise, adding variations to the mesh.|
+|  ![tentacles](tentacles.jpg)|1. Isolate the rim points of the jellyfish bell. 2. Use a copytopoints node to scatter lines randomly on selected points from the rim group. 3. Simulate the tentacle movements with vellumconstraints and vellumsolver, utilizing the same method as simulating hair. [Video](https://www.youtube.com/watch?v=LN4XXaHQkmU)|
 
 ---
 
@@ -68,18 +82,3 @@ Your task is to watch the video and extract the applicable information to make t
 [File Cache Node](https://www.youtube.com/watch?v=00s9YWDWFs0) - How do I use the File Cache node? Where does it save and how do versions work?
 
 [Simulation Caching](https://www.youtube.com/watch?v=jwIuzB9FkX0) - Why is my timeline turning blue/orange? Why isn't my simulation updating even though I made changes?
-
-## (Optional) Extra Credit
-- Add another part to your jellyfish. This can be something real (ex: crown jellyfish and lions mane jellyfish have some pretty crazy features that might be fun to recreate) or whatever zany alien jellyfish addition you can imagine!
-- Refine one of the existing parts (ex: adding scalloped edges and dents/puckering to the bell of the jellyfish)
-- Render your jellyfish (a good place to start is watching [part 4](https://www.youtube.com/watch?v=1Ph-7ZpN5oY) and [part 5](https://www.youtube.com/watch?v=mCQPDf-bupY) of Entagma's Houdini in 5 Minutes series where they briefly cover rendering basics
-- Add some flair to your scene by adding a background (ex: coral or rock formations)
-## Submission
-- Fork this repository
-- Update your README
-    - Please delete the assignment README text
-    - A description of your project
-    - A video of your animated jellyfish ([video](https://www.youtube.com/watch?v=gXtDd1lPDmc) of how to save a video of your viewport out of Houdini)
-- Create a pull request to this repository
-- Submit your Houdini file to Canvas along with a link to your pull request
-(Don't upload your houdini files to github -- it's a pain to upload big/binary files. Just canvas is fine!)
