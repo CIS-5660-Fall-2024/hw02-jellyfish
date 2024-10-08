@@ -1,5 +1,27 @@
 # Procedural Jellyfish
 
+## Result
+![](./Jelly.gif)
+
+## Implementation Details
+
+### Bell
+![](./Bell.png)
+Use Bended lines and revolve around axis.
+
+### Arms
+![](./Arms.png)
+Apply noise to a grid and twist it, then attach the arms to the centeroid of the bell.
+
+### Veins
+![](./Veins.png)
+Use shortest path node to connect start point and end points
+
+### Tentacles
+![](Tentacles.png)
+Hair simulation
+
+
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
