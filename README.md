@@ -2,6 +2,8 @@
 
 ## Zhen Render
 
+![](./jellyfish.gif)
+
 ## Project Overview
 In this homework, I created a procedural jellyfish using Houdini. The jellyfish consists of following components:
 - Hat
