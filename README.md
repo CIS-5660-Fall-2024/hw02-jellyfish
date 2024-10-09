@@ -1,6 +1,6 @@
 # Procedural Jellyfish
 
-<img height="500" alt="Jellyfish in Houdini Viewport" src="/jellysish.png">
+<img height="500" alt="Jellyfish in Houdini Viewport" src="/jellyfish.png">
 
 
 https://github.com/user-attachments/assets/92789c48-64ad-456c-a90a-f7e3a8ab7267
