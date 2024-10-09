@@ -1,5 +1,9 @@
 # Procedural Jellyfish
 
+
+In this project, a procedural jelllyrish is created by Houdini. The jellyfish is composed of five parts: the bell, arms, veins, organs, and tentacles. 
+
+
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
