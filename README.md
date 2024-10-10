@@ -30,4 +30,4 @@ second render inspiration: mizi from Alien Stage
 
 ## Video
 
-<video height="500" alt="Demo Vid" src="/assets/FLIPBOOK.mov">
+![jelly](//)
