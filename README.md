@@ -30,7 +30,7 @@ second render inspiration: mizi from Alien Stage
 
 ## Video
 
-![jelly](https://github.com/user-attachments/assets/932ecf5b-b59b-438b-b1e4-becf0a646494)
+<video src="https://github.com/user-attachments/assets/932ecf5b-b59b-438b-b1e4-becf0a646494"></video>
 
 
 
