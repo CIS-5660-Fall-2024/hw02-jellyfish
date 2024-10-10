@@ -30,4 +30,4 @@ second render inspiration: mizi from Alien Stage
 
 ## Video
 
-<video src="/assets/FLIPBOOK.mov" width="500">
+<video height="500" alt="Demo Vid" src="/assets/FLIPBOOK.mov">
