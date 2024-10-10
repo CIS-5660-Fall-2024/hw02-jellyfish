@@ -25,6 +25,7 @@ I created tentacles for my jellyfish using simulate hair nodes
 <img height="500" alt="Jellyfish Render 2" src="/assets/JellyRender2.png">
 
 second render inspiration: mizi from Alien Stage
+
 <img height="500" alt="Inspiration Picture" src="/assets/miziJelly.jpg">
 
 ## Video
